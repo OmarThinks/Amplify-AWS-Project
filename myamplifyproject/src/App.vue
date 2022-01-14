@@ -1,5 +1,14 @@
 <template>
+
+
   <div id="app">
+
+ <amplify-authenticator>
+    <!-- The rest of your app code -->
+    <amplify-sign-out></amplify-sign-out>
+  </amplify-authenticator>
+
+
     <h1>Todo App</h1>
     <input type="text" v-model="name" placeholder="Todo name">
     <input type="text" v-model="description" placeholder="Todo description">
