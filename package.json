@@ -1,0 +1,19 @@
+{
+  "name": "amplify-aws-project",
+  "version": "1.0.0",
+  "description": "Getting to learn amplify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarThinks/Amplify-AWS-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarThinks/Amplify-AWS-Project/issues"
+  },
+  "homepage": "https://github.com/OmarThinks/Amplify-AWS-Project#readme"
+}
